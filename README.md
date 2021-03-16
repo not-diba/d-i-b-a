@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d-i-b-a
+- 👋 Hi, I’m @diba
 - 👀 I’m interested in Mathematics and Computer Engineering 
 - 🌱 I’m currently learning Electrical Engineering
 - 💞️ I’m looking to collaborate on any Freelance Work
